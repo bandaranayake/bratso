@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bratso</string>
+    <string name="txtIP_hint">IP Address</string>
+    <string name="txtUsername_hint">Username</string>
+    <string name="txtPassword_hint">Password</string>
+    <string name="btnLogin_text">Login</string>
+    <string name="sbClaw_text">Claw:</string>
+    <string name="sbElbow_text">Elbow:</string>
+    <string name="sbBase_text">Base:</string>
+    <string name="sbDelay_text">Delay(s):</string>
+    <string name="btnReset_text">Reset</string>
+    <string name="btnRecord_text">Record</string>
+    <string name="btnRun_text">Run</string>
+    <string name="robotic_arm_desc">Robotic Arm</string>
+</resources>
